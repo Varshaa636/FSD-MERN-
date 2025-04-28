@@ -1,0 +1,24 @@
+p{
+    color:#ffffff;
+}
+.container{
+    /*height:200px;
+    background-color:black;
+    background-image:url("https://ik.imagekit.io/ew9jpraq9/image.jpg?updatedAt=1745841807471");
+    background-size:cover;
+    opacity:0.9;*/
+    width:300px;
+    height:300px;
+    background-color:black;
+    /*padding:25px;*/
+    padding-top:30px;
+    padding-right: 20px;
+    padding-left: 10px;
+    border-width:4px;
+    border-color:red;
+    border-style:solid;
+    margin-top:20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+}
